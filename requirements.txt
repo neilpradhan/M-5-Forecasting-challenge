@@ -1,0 +1,4 @@
+numpy
+pandas
+lightgbm
+pickle-mixin  # Note: 'pickle' is part of the Python standard library and does not need to be included, but 'pickle-mixin' is sometimes used in its place for compatibility.
